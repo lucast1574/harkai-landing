@@ -9,4 +9,4 @@ Landing pública independiente del panel y de los clientes autenticados. Brandin
 - Docker sirve archivos estáticos como usuario sin privilegios en 8080, con `/health` y CSP.
 - `VITE_PANEL_READY=false` mantiene un aviso real de desarrollo al pulsar acceso al panel. Activar únicamente después de desplegar y probar el panel renovado; la URL de destino está fijada a `panel.harkai.lat`.
 - Las imágenes del mapa son una ilustración etiquetada, no datos reales. El contenido identifica funcionalidades en desarrollo y no publica un APK antiguo.
-- Dominio y aplicación se gestionan en un proyecto Dokploy separado: Harkai Landing.
+- La aplicación `harkai-landing` es un servicio dentro del proyecto Dokploy `harkai`, entorno `production`, junto al backend. El repositorio continúa independiente.
