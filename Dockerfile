@@ -4,6 +4,7 @@ COPY package.json package-lock.json ./
 RUN npm ci --ignore-scripts
 COPY index.html vite.config.js ./
 COPY src ./src
+COPY scripts ./scripts
 COPY public ./public
 ARG VITE_PANEL_READY=false
 ENV VITE_PANEL_READY=$VITE_PANEL_READY

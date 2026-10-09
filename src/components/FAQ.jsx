@@ -3,9 +3,9 @@ import SectionHeading from './SectionHeading.jsx';
 
 const questions = [
   ['¿Qué es Harkai?', 'Una plataforma de reportes comunitarios para conocer lo que pasa cerca. La nueva experiencia reúne mapas, alertas e información para personas y gobiernos locales.'],
-  ['¿Un reporte no verificado también genera una alerta?', 'Sí: el nuevo flujo incluye alertas de reportes no verificados según la zona y las preferencias. Ese estado se mantiene visible al abrir el reporte. Una alerta comunitaria no equivale a una confirmación oficial.'],
+  ['¿Un reporte no verificado también genera una alerta?', 'El envío de notificaciones de la nueva versión está en preparación. El flujo incluye alertas de reportes no verificados según la zona y las preferencias. Ese estado se mantiene visible al abrir el reporte. Una alerta comunitaria no equivale a una confirmación oficial.'],
   ['¿Cómo se confirma un reporte?', 'Una cuenta distinta a la del autor podrá darle una sola aprobación. El estado cambiará a «Confirmado por la comunidad». Esta confirmación no acredita una investigación ni una validación oficial de autoridades.'],
-  ['¿Ya puedo usar el nuevo panel y la app?', 'Estamos renovando ambos. Esta página presenta la nueva experiencia; el panel se habilitará en panel.harkai.lat cuando esté listo. Durante esta etapa no hay cobros activos ni una nueva descarga publicada.'],
+  ['¿Ya puedo usar el nuevo panel y la app?', 'Puedes explorar el mapa web sin crear una cuenta. Regístrate para publicar y confirmar reportes. La app móvil se está renovando; por ahora no hay una nueva descarga pública ni cobros activos.'],
   ['¿Harkai reemplaza los servicios de emergencia?', 'No. Es una herramienta de información comunitaria. Ante un peligro inmediato, busca un lugar seguro y contacta al servicio de emergencia correspondiente a tu localidad. No te expongas para conseguir evidencia.'],
 ];
 export default function FAQ() {
