@@ -1,0 +1,4 @@
+import { MapPin, PawPrint, HeartHandshake, Eye } from 'lucide-react';
+export default function LocalContext() {
+ return <section className="local-context section"><div className="local-title"><span className="local-coordinate"><MapPin size={17} aria-hidden="true"/> Hecho para nuestras comunidades en Perú</span><h2>No es solo dónde.<br />Es lo que nos conecta.</h2></div><div className="local-topics"><article><Eye aria-hidden="true"/><h3>Lo que está ocurriendo</h3><p>Consulta reportes cercanos y distingue lo que sigue sin verificar de lo confirmado por la comunidad.</p></article><article><PawPrint aria-hidden="true"/><h3>Lo que nos importa</h3><p>Encuentra el espacio de mascotas y el contexto local que ayuda a mirar más allá de una alerta.</p></article><article><HeartHandshake aria-hidden="true"/><h3>Las manos que ayudan</h3><p>Conoce lugares de ayuda y una propuesta para conectar a personas y gobiernos locales.</p></article></div></section>;
+}
