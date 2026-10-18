@@ -8,3 +8,5 @@ import './motion.css';
 const root = document.getElementById('root');
 if (root.hasChildNodes()) hydrateRoot(root, <React.StrictMode><App /></React.StrictMode>);
 else { const { createRoot } = await import('react-dom/client'); createRoot(root).render(<React.StrictMode><App /></React.StrictMode>); }
+
+import './entrance.css';

@@ -1,0 +1,20 @@
+/* Brief brand introduction; never waits for assets or blocks content. */
+.brand-entrance[hidden]{display:none}
+.brand-entrance{position:fixed;inset:0;z-index:600;display:grid;place-items:center;overflow:clip;pointer-events:none;background:var(--entrance-bg);color:var(--entrance-ink);animation:brand-entrance-exit .5s 1.25s cubic-bezier(.7,0,.3,1) forwards}
+.brand-entrance-art{position:relative;display:grid;justify-items:center;align-content:center;gap:26px;width:min(84vw,520px);text-align:center}
+.brand-entrance-logo{position:relative;z-index:1;animation:brand-entrance-logo .8s cubic-bezier(.16,1,.3,1) both}
+.brand-entrance-caption{position:relative;z-index:1;font-size:12px;letter-spacing:.04em;margin:0;animation:brand-entrance-copy .6s .25s both}
+.brand-entrance-skip{position:absolute;right:max(24px,5vw);bottom:max(28px,env(safe-area-inset-bottom));pointer-events:auto;display:flex;align-items:center;gap:16px;border:0;border-bottom:1px solid currentColor;padding:14px 0;background:transparent;color:inherit;font:inherit;font-size:12px;cursor:pointer}
+.brand-entrance-skip svg{width:18px;height:18px}.brand-entrance-skip:focus-visible,.brand-entrance-skip:hover{outline:none;box-shadow:none;background:var(--entrance-accent);color:var(--entrance-bg)}
+.brand-entrance-line{width:72px;height:2px;background:var(--entrance-accent);transform-origin:left;animation:brand-entrance-line 1.2s cubic-bezier(.16,1,.3,1) both}
+@keyframes brand-entrance-logo{from{opacity:0;transform:translateY(22px) scale(.9)}to{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes brand-entrance-copy{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes brand-entrance-line{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes brand-entrance-exit{to{opacity:0;visibility:hidden;transform:translateY(-5%)}}
+@media(prefers-reduced-motion:reduce){.brand-entrance{display:none!important;animation:none!important}}
+
+.entrance-harkai{--entrance-bg:#071b30;--entrance-ink:#edf4f7;--entrance-accent:#57d463}
+.harkai-entrance-wordmark{display:flex;align-items:center;gap:12px;font-size:clamp(48px,10vw,76px);font-weight:750;letter-spacing:-.06em}.harkai-entrance-wordmark img{object-fit:contain;width:clamp(52px,12vw,72px);height:auto}.harkai-entrance-wordmark>span>span{color:#57d463}
+.entrance-radar{position:absolute;width:min(110vw,480px);height:auto;left:50%;top:50%;translate:-50% -50%;stroke:#57d463;stroke-width:1;opacity:.2;animation:harkai-entrance-radar 1.5s cubic-bezier(.16,1,.3,1) both}.entrance-radar-dot{fill:#57d463;stroke:none}
+main[data-entrance=active] .hero *{animation-play-state:paused}
+@keyframes harkai-entrance-radar{from{transform:scale(.5) rotate(-40deg);opacity:0}to{transform:scale(1) rotate(0);opacity:.25}}
