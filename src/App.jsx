@@ -2,7 +2,6 @@ import { useRef } from 'react';
 import { ArrowRight, ArrowUpRight, BellRing, MapPinned, HeartHandshake, Eye, FileText, CheckCircle2, X, Shield } from 'lucide-react';
 
 import BrandEntrance from './components/BrandEntrance.jsx';
-import MotionControl from './components/MotionControl.jsx';
 import ReportGuide from './components/ReportGuide.jsx';
 import Neighborhood from './components/Neighborhood.jsx';
 import SectionHeading from './components/SectionHeading.jsx';
@@ -24,7 +23,7 @@ export default function App() {
     <main id="contenido">
       <BrandEntrance />
       <section id="inicio" className="hero section">
-        <div className="hero-copy"><span className="hero-badge"><span />El barrio también tiene algo que decir</span><h1 aria-label="Tu comunidad. En el mismo mapa."><span className="hero-line" aria-hidden="true"><span>Tu comunidad.</span></span><span className="hero-line" aria-hidden="true"><span>En el mismo</span></span><span className="hero-line" aria-hidden="true"><span>mapa.</span></span></h1><p>Harkai reúne reportes comunitarios en Perú para entender lo que pasa cerca. Mira tu zona, reconoce el estado de cada reporte y encuentra contexto entre las voces de tu comunidad.</p><div className="hero-actions"><a className="button primary" href="#comunidad">Cómo funciona <ArrowRight size={19} aria-hidden="true" /></a><button className="text-button" onClick={onPanel}>Explorar mi zona <ArrowUpRight size={17} aria-hidden="true" /></button></div><div className="hero-caption"><Shield size={17} aria-hidden="true" />Información local. Confirmación comunitaria.</div><MotionControl /></div>
+        <div className="hero-copy"><span className="hero-badge"><span />El barrio también tiene algo que decir</span><h1 aria-label="Tu comunidad. En el mismo mapa."><span className="hero-line" aria-hidden="true"><span>Tu comunidad.</span></span><span className="hero-line" aria-hidden="true"><span>En el mismo</span></span><span className="hero-line" aria-hidden="true"><span>mapa.</span></span></h1><p>Harkai reúne reportes comunitarios en Perú para entender lo que pasa cerca. Mira tu zona, reconoce el estado de cada reporte y encuentra contexto entre las voces de tu comunidad.</p><div className="hero-actions"><a className="button primary" href="#comunidad">Cómo funciona <ArrowRight size={19} aria-hidden="true" /></a><button className="text-button" onClick={onPanel}>Explorar mi zona <ArrowUpRight size={17} aria-hidden="true" /></button></div><div className="hero-caption"><Shield size={17} aria-hidden="true" />Información local. Confirmación comunitaria.</div></div>
         <Neighborhood />
         <div className="hero-bottom"><span>Tu barrio se entiende mejor cuando lo miramos juntos.</span><span>Diseñado para nuestras comunidades en Perú <ArrowUpRight size={15} aria-hidden="true" /></span></div>
       </section>
