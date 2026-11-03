@@ -1,0 +1,3207 @@
+{
+ "url": "http://127.0.0.1:4173",
+ "at": "2026-11-03T02:51:30.200Z",
+ "allow": [
+  "eyebrow",
+  "numbering",
+  "headline-wrap",
+  "gradient",
+  "rounded"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.88,
+    1,
+    0.48,
+    0.76,
+    0.29,
+    1,
+    0.82,
+    0.68
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 24,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6458,
+     "screens": 7.2,
+     "words": 691,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "barrio.webp",
+      "reportes.webp",
+      "mascotas.webp",
+      "ayuda.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "chars": 31,
+     "lines": 3,
+     "size": 108,
+     "vw": 7.5,
+     "font": "Inter",
+     "weight": 750,
+     "tracking": -0.065,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.44,
+     "top": 234,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "lines": 3,
+     "size": 108,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "harkai.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.047,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 28,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "words": 6,
+      "chars": 31,
+      "lines": 3,
+      "size": 108,
+      "vw": 7.5,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 234,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "No es solo dónde. Es lo que nos conecta.",
+      "words": 9,
+      "chars": 40,
+      "lines": 3,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1098,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Una ciudad que se mira en comunidad.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 2006,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De lo que observas a lo que compartimos.",
+      "words": 8,
+      "chars": 40,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 3132,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Describe",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 3412,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ubica y revisa",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.27,
+      "top": 3412,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Confirma en comunidad",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 3412,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Para quien vive la ciudad. Y quien la cuida.",
+      "words": 9,
+      "chars": 44,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 3807,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Conoce tu zona. Aporta a tu comunidad.",
+      "words": 7,
+      "chars": 38,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 4162,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Reportes comunitarios en Perú. El contexto va primero.",
+      "words": 8,
+      "chars": 54,
+      "lines": 3,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 4605,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas que sí importan.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 5199,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "La ciudad es grande. La comunidad está cerca.",
+      "words": 8,
+      "chars": 45,
+      "lines": 2,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 5763,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 3,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 7,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      22,
+      24,
+      28,
+      34,
+      36,
+      48,
+      54,
+      64,
+      68,
+      80,
+      93,
+      108
+     ],
+     "sizeCount": 23,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 14,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.6
+     },
+     "measureChars": 79,
+     "max": {
+      "size": 108,
+      "vw": 7.5,
+      "font": "Inter",
+      "text": "En el mismo"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 29
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad. En el mismo mapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 190
+     },
+     {
+      "text": "Hecho para nuestras comunidades en Perú",
+      "above": "No es solo dónde. Es lo que nos conecta.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1049
+     },
+     {
+      "text": "Información con contexto",
+      "above": "Una ciudad que se mira en comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1971
+     },
+     {
+      "text": "Del reporte a la comunidad",
+      "above": "De lo que observas a lo que compartimos.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3097
+     },
+     {
+      "text": "PASO 01",
+      "above": "Describe",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3382
+     },
+     {
+      "text": "PASO 02",
+      "above": "Ubica y revisa",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3382
+     },
+     {
+      "text": "PASO 03",
+      "above": "Confirma en comunidad",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3382
+     },
+     {
+      "text": "Personas y gobiernos locales",
+      "above": "Para quien vive la ciudad. Y quien la cu",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3772
+     },
+     {
+      "text": "Experiencia en desarrollo",
+      "above": "Conoce tu zona. Aporta a tu comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 4132
+     },
+     {
+      "text": "Una guía para consultar con criterio",
+      "above": "Reportes comunitarios en Perú. El contex",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4564
+     },
+     {
+      "text": "Para conocer mejor Harkai",
+      "above": "Preguntas que sí importan.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5164
+     },
+     {
+      "text": "Cerca de ti",
+      "above": "La ciudad es grande. La comunidad está c",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5722
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#071b30",
+     "bodyBgHsl": {
+      "h": 211,
+      "s": 0.75,
+      "l": 0.11
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#071b30",
+       "top": 112,
+       "hsl": {
+        "h": 211,
+        "s": 0.75,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#0b2537",
+       "top": 190,
+       "hsl": {
+        "h": 205,
+        "s": 0.67,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#edf4f7",
+       "top": 953,
+       "hsl": {
+        "h": 198,
+        "s": 0.38,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#57d463",
+       "top": 5622,
+       "hsl": {
+        "h": 126,
+        "s": 0.59,
+        "l": 0.59
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a7b7c7",
+       "share": 0.45
+      },
+      {
+       "color": "#071b30",
+       "share": 0.24
+      },
+      {
+       "color": "#edf4f7",
+       "share": 0.12
+      },
+      {
+       "color": "#7891a8",
+       "share": 0.05
+      },
+      {
+       "color": "#cad9e4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#57d463",
+      "hsl": {
+       "h": 126,
+       "s": 0.59,
+       "l": 0.59
+      },
+      "fg": "#011935"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 45,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ir al contenido",
+      "Explorar Harkai",
+      "Cómo funciona"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.radius-ring → rgba(87, 212, 99, 0.016) 0px 0px 0px 45px",
+      "div.map-pin.fire-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.pet-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.place-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section#inicio.hero.section → radial-gradient(at 80% 38%, rgba(27, 87, 52, 0.17), rgba(0, 0, 0, 0) 55%), none"
+     ],
+     "gradientText": 0,
+     "hairlines": 29,
+     "hairlineSamples": [
+      "header.landing-masthead 1440px",
+      "section#inicio.hero.section 1440px",
+      "section.local-context.section 1440px",
+      "article 608px",
+      "article 608px"
+     ],
+     "outlinedBoxes": 4,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 50,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 3301
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 112,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6458,
+    "margins": {
+     "left": 72,
+     "right": 72
+    },
+    "sections": [
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 112,
+      "height": 841,
+      "words": 109,
+      "media": 1,
+      "middle": 122,
+      "heading": {
+       "text": "En el mismo",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 72,
+      "right": 64,
+      "textLeft": 72,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 953,
+      "height": 919,
+      "words": 84,
+      "media": 1,
+      "middle": 112,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 96,
+      "textLeft": 80,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#comunidad.section.community",
+      "tag": "section",
+      "top": 1871,
+      "height": 1126,
+      "words": 126,
+      "media": 3,
+      "middle": 32,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 80,
+      "textLeft": 80,
+      "textRight": 89,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 2997,
+      "height": 675,
+      "words": 83,
+      "media": 0,
+      "middle": 93,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 96,
+      "textLeft": 80,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 3672,
+      "height": 793,
+      "words": 86,
+      "media": 0,
+      "middle": 65,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 314,
+      "textLeft": 80,
+      "textRight": 314,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 4464,
+      "height": 599,
+      "words": 109,
+      "media": 0,
+      "middle": 117,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 54,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 90,
+      "textLeft": 80,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 5064,
+      "height": 558,
+      "words": 199,
+      "media": 0,
+      "middle": 246,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 255,
+      "textLeft": 80,
+      "textRight": 255,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 5622,
+      "height": 526,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 80,
+       "tag": "h2"
+      },
+      "left": 297,
+      "right": 297,
+      "textLeft": 297,
+      "textRight": 297,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 6147,
+      "height": 311,
+      "words": 32,
+      "media": 0,
+      "middle": 926,
+      "heading": {
+       "text": "harkai.",
+       "size": 22,
+       "tag": "a"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "size": 108,
+      "top": 234,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 72,
+      "n": 21
+     },
+     {
+      "x": 795,
+      "n": 7
+     },
+     {
+      "x": 665,
+      "n": 5
+     },
+     {
+      "x": 517,
+      "n": 4
+     },
+     {
+      "x": 955,
+      "n": 2
+     },
+     {
+      "x": 965,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 41,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.1,
+    "voidBox": {
+     "x": 360,
+     "y": 780,
+     "w": 1080,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.89,
+    0.76,
+    0.65,
+    0.57,
+    1,
+    0.72
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 24,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6130,
+     "screens": 6,
+     "words": 687,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "barrio.webp",
+      "reportes.webp",
+      "mascotas.webp",
+      "ayuda.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "chars": 31,
+     "lines": 5,
+     "size": 76,
+     "vw": 9.9,
+     "font": "Inter",
+     "weight": 750,
+     "tracking": -0.065,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.44,
+     "top": 234,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "lines": 5,
+     "size": 76,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "harkai.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.047,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 28,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "words": 6,
+      "chars": 31,
+      "lines": 5,
+      "size": 76,
+      "vw": 9.9,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 234,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "No es solo dónde. Es lo que nos conecta.",
+      "words": 9,
+      "chars": 40,
+      "lines": 3,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 1123,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Una ciudad que se mira en comunidad.",
+      "words": 7,
+      "chars": 36,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1773,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De lo que observas a lo que compartimos.",
+      "words": 8,
+      "chars": 40,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2782,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Describe",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 2968,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ubica y revisa",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 2968,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Confirma en comunidad",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 2968,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Para quien vive la ciudad. Y quien la cuida.",
+      "words": 9,
+      "chars": 44,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3452,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Conoce tu zona. Aporta a tu comunidad.",
+      "words": 7,
+      "chars": 38,
+      "lines": 3,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 3715,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Reportes comunitarios en Perú. El contexto va primero.",
+      "words": 8,
+      "chars": 54,
+      "lines": 5,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4192,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas que sí importan.",
+      "words": 4,
+      "chars": 26,
+      "lines": 3,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 4886,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "La ciudad es grande. La comunidad está cerca.",
+      "words": 8,
+      "chars": 45,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5498,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 5,
+     "over2Lines": 5,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 7,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      20,
+      22,
+      24,
+      28,
+      34,
+      36,
+      38,
+      40,
+      48,
+      65,
+      76
+     ],
+     "sizeCount": 20,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 14,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.6
+     },
+     "measureChars": 53,
+     "max": {
+      "size": 76,
+      "vw": 9.9,
+      "font": "Inter",
+      "text": "En el mismo"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 28
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad. En el mismo mapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 190
+     },
+     {
+      "text": "Hecho para nuestras comunidades en Perú",
+      "above": "No es solo dónde. Es lo que nos conecta.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1074
+     },
+     {
+      "text": "Información con contexto",
+      "above": "Una ciudad que se mira en comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1738
+     },
+     {
+      "text": "Del reporte a la comunidad",
+      "above": "De lo que observas a lo que compartimos.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2747
+     },
+     {
+      "text": "PASO 01",
+      "above": "Describe",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2938
+     },
+     {
+      "text": "PASO 02",
+      "above": "Ubica y revisa",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2938
+     },
+     {
+      "text": "PASO 03",
+      "above": "Confirma en comunidad",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2938
+     },
+     {
+      "text": "Personas y gobiernos locales",
+      "above": "Para quien vive la ciudad. Y quien la cu",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3417
+     },
+     {
+      "text": "Experiencia en desarrollo",
+      "above": "Conoce tu zona. Aporta a tu comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3685
+     },
+     {
+      "text": "Una guía para consultar con criterio",
+      "above": "Reportes comunitarios en Perú. El contex",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4151
+     },
+     {
+      "text": "Para conocer mejor Harkai",
+      "above": "Preguntas que sí importan.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4851
+     },
+     {
+      "text": "Cerca de ti",
+      "above": "La ciudad es grande. La comunidad está c",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5457
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#071b30",
+     "bodyBgHsl": {
+      "h": 211,
+      "s": 0.75,
+      "l": 0.11
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#071b30",
+       "top": 112,
+       "hsl": {
+        "h": 211,
+        "s": 0.75,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#edf4f7",
+       "top": 978,
+       "hsl": {
+        "h": 198,
+        "s": 0.38,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#0b2537",
+       "top": 2647,
+       "hsl": {
+        "h": 205,
+        "s": 0.67,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#57d463",
+       "top": 5357,
+       "hsl": {
+        "h": 126,
+        "s": 0.59,
+        "l": 0.59
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a7b7c7",
+       "share": 0.45
+      },
+      {
+       "color": "#071b30",
+       "share": 0.24
+      },
+      {
+       "color": "#edf4f7",
+       "share": 0.12
+      },
+      {
+       "color": "#7891a8",
+       "share": 0.05
+      },
+      {
+       "color": "#cad9e4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#57d463",
+      "hsl": {
+       "h": 126,
+       "s": 0.59,
+       "l": 0.59
+      },
+      "fg": "#011935"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 45,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ir al contenido",
+      "Explorar Harkai",
+      "Cómo funciona"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.radius-ring → rgba(87, 212, 99, 0.016) 0px 0px 0px 45px",
+      "div.map-pin.fire-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.pet-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.place-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section#inicio.hero.section → radial-gradient(at 80% 38%, rgba(27, 87, 52, 0.17), rgba(0, 0, 0, 0) 55%), none"
+     ],
+     "gradientText": 0,
+     "hairlines": 26,
+     "hairlineSamples": [
+      "header.landing-masthead 768px",
+      "section#inicio.hero.section 768px",
+      "section.local-context.section 768px",
+      "article 314px",
+      "article 314px"
+     ],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 5,
+     "boxRadius": 50,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 20,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 2857
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.17
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 112,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6130,
+    "margins": {
+     "left": 38,
+     "right": 38
+    },
+    "sections": [
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 112,
+      "height": 866,
+      "words": 109,
+      "media": 1,
+      "middle": 22,
+      "heading": {
+       "text": "En el mismo",
+       "size": 76,
+       "tag": "h1"
+      },
+      "left": 38,
+      "right": 31,
+      "textLeft": 38,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 978,
+      "height": 660,
+      "words": 84,
+      "media": 1,
+      "middle": 112,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 44,
+      "textLeft": 38,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#comunidad.section.community",
+      "tag": "section",
+      "top": 1638,
+      "height": 1009,
+      "words": 126,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 2647,
+      "height": 671,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 43,
+      "textLeft": 38,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 3317,
+      "height": 734,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 46,
+      "textLeft": 38,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 4051,
+      "height": 700,
+      "words": 109,
+      "media": 0,
+      "middle": 114,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 40,
+      "textLeft": 38,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 4751,
+      "height": 606,
+      "words": 199,
+      "media": 0,
+      "middle": 112,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 64,
+      "textLeft": 38,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 5357,
+      "height": 462,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 120,
+      "textLeft": 120,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 5819,
+      "height": 311,
+      "words": 32,
+      "media": 0,
+      "middle": 321,
+      "heading": {
+       "text": "harkai.",
+       "size": 22,
+       "tag": "a"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "size": 76,
+      "top": 234,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 38,
+      "n": 21
+     },
+     {
+      "x": 464,
+      "n": 6
+     },
+     {
+      "x": 359,
+      "n": 5
+     },
+     {
+      "x": 279,
+      "n": 4
+     },
+     {
+      "x": 521,
+      "n": 2
+     },
+     {
+      "x": 531,
+      "n": 2
+     },
+     {
+      "x": 435,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 41,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.83,
+    1,
+    0.93,
+    0.61,
+    0.55,
+    0.92,
+    0.72,
+    0.43,
+    1,
+    1,
+    0.69
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 24,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 9001,
+     "screens": 10.7,
+     "words": 681,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "barrio.webp",
+      "reportes.webp",
+      "mascotas.webp",
+      "ayuda.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "chars": 31,
+     "lines": 3,
+     "size": 46.8,
+     "vw": 12,
+     "font": "Inter",
+     "weight": 750,
+     "tracking": -0.065,
+     "leading": 0.98,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 246,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Tu comunidad. En el mismo mapa.",
+     "words": 6,
+     "lines": 3,
+     "size": 46.8,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "harkai.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.053,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "words": 6,
+      "chars": 31,
+      "lines": 3,
+      "size": 46.8,
+      "vw": 12,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 246,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "No es solo dónde. Es lo que nos conecta.",
+      "words": 9,
+      "chars": 40,
+      "lines": 4,
+      "size": 46,
+      "vw": 11.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1424,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Una ciudad que se mira en comunidad.",
+      "words": 7,
+      "chars": 36,
+      "lines": 3,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2514,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Mira lo que pasa cerca",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3131,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lo que nos importa cerca",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3588,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ayuda a que otros sepan",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4071,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "De lo que observas a lo que compartimos.",
+      "words": 8,
+      "chars": 40,
+      "lines": 3,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4561,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Describe",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4830,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ubica y revisa",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5073,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Confirma en comunidad",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5315,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Para quien vive la ciudad. Y quien la cuida.",
+      "words": 9,
+      "chars": 44,
+      "lines": 3,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5643,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Conoce tu zona. Aporta a tu comunidad.",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6017,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Reportes comunitarios en Perú. El contexto va primero.",
+      "words": 8,
+      "chars": 54,
+      "lines": 4,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.06,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6634,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas que sí importan.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 7553,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "La ciudad es grande. La comunidad está cerca.",
+      "words": 8,
+      "chars": 45,
+      "lines": 4,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 8234,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "harkai.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Inter",
+      "weight": 750,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 8683,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 4,
+     "over2Lines": 7,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      22,
+      24,
+      28,
+      30,
+      32,
+      36,
+      40,
+      42,
+      46,
+      47,
+      48
+     ],
+     "sizeCount": 23,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 14,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.6
+     },
+     "measureChars": 49,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Inter",
+      "text": "La ciudad es grande."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 30
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad. En el mismo mapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 207
+     },
+     {
+      "text": "Hecho para nuestras comunidades en Perú",
+      "above": "No es solo dónde. Es lo que nos conecta.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 1375
+     },
+     {
+      "text": "Información con contexto",
+      "above": "Una ciudad que se mira en comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2479
+     },
+     {
+      "text": "Del reporte a la comunidad",
+      "above": "De lo que observas a lo que compartimos.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4526
+     },
+     {
+      "text": "PASO 01",
+      "above": "Describe",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 4803
+     },
+     {
+      "text": "PASO 02",
+      "above": "Ubica y revisa",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 5046
+     },
+     {
+      "text": "PASO 03",
+      "above": "Confirma en comunidad",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 5288
+     },
+     {
+      "text": "Personas y gobiernos locales",
+      "above": "Para quien vive la ciudad. Y quien la cu",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5608
+     },
+     {
+      "text": "Experiencia en desarrollo",
+      "above": "Conoce tu zona. Aporta a tu comunidad.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 5987
+     },
+     {
+      "text": "Una guía para consultar con criterio",
+      "above": "Reportes comunitarios en Perú. El contex",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 6593
+     },
+     {
+      "text": "Para conocer mejor Harkai",
+      "above": "Preguntas que sí importan.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 7518
+     },
+     {
+      "text": "Cerca de ti",
+      "above": "La ciudad es grande. La comunidad está c",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 8193
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#071b30",
+     "bodyBgHsl": {
+      "h": 211,
+      "s": 0.75,
+      "l": 0.11
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#071b30",
+       "top": 153,
+       "hsl": {
+        "h": 211,
+        "s": 0.75,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#0b2537",
+       "top": 682,
+       "hsl": {
+        "h": 205,
+        "s": 0.67,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#edf4f7",
+       "top": 1311,
+       "hsl": {
+        "h": 198,
+        "s": 0.38,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#57d463",
+       "top": 8125,
+       "hsl": {
+        "h": 126,
+        "s": 0.59,
+        "l": 0.59
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a7b7c7",
+       "share": 0.45
+      },
+      {
+       "color": "#071b30",
+       "share": 0.24
+      },
+      {
+       "color": "#edf4f7",
+       "share": 0.12
+      },
+      {
+       "color": "#7891a8",
+       "share": 0.05
+      },
+      {
+       "color": "#cad9e4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#57d463",
+      "hsl": {
+       "h": 126,
+       "s": 0.59,
+       "l": 0.59
+      },
+      "fg": "#011935"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ir al contenido",
+      "Explorar Harkai",
+      "Cómo funciona"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.radius-ring → rgba(87, 212, 99, 0.016) 0px 0px 0px 45px",
+      "div.map-pin.fire-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.pet-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+      "div.map-pin.place-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section#inicio.hero.section → radial-gradient(at 80% 38%, rgba(27, 87, 52, 0.17), rgba(0, 0, 0, 0) 55%), none"
+     ],
+     "gradientText": 0,
+     "hairlines": 29,
+     "hairlineSamples": [
+      "header.landing-masthead 390px",
+      "section#inicio.hero.section 390px",
+      "section.local-context.section 390px",
+      "article 342px",
+      "article 342px"
+     ],
+     "outlinedBoxes": 4,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 50,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 4728
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 153,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 9001,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "header.landing-masthead",
+      "tag": "header",
+      "top": 0,
+      "height": 153,
+      "words": 6,
+      "media": 0,
+      "middle": 33,
+      "heading": {
+       "text": "harkai",
+       "size": 30,
+       "tag": "span"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 153,
+      "height": 1158,
+      "words": 103,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "En el mismo",
+       "size": 47,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 1311,
+      "height": 1100,
+      "words": 84,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading",
+      "tag": "div",
+      "top": 2475,
+      "height": 296,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 38,
+      "textLeft": 24,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.feature-grid",
+      "tag": "div",
+      "top": 2807,
+      "height": 1396,
+      "words": 66,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Mira lo que pasa cerca",
+       "size": 24,
+       "tag": "h3"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.trust-strip",
+      "tag": "div",
+      "top": 4227,
+      "height": 166,
+      "words": 26,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 89,
+      "right": 58,
+      "textLeft": 89,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 4458,
+      "height": 1082,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 5540,
+      "height": 985,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 36,
+      "textLeft": 24,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 6525,
+      "height": 925,
+      "words": 109,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 31,
+      "textLeft": 24,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 7450,
+      "height": 676,
+      "words": 165,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 51,
+      "textLeft": 24,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 8125,
+      "height": 518,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 27,
+      "textLeft": 27,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 8643,
+      "height": 358,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "harkai.",
+       "size": 22,
+       "tag": "a"
+      },
+      "left": 24,
+      "right": 51,
+      "textLeft": 24,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "size": 47,
+      "top": 246,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 34
+     },
+     {
+      "x": 72,
+      "n": 6
+     },
+     {
+      "x": 41,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 41,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "3 headline(s) wrap past two lines at 1440px: \"Tu comunidad. En el mismo mapa.\" → 3 lines (6 words, 108px); \"No es solo dónde. Es lo que nos conecta.\" → 3 lines (9 words, 68px); \"Reportes comunitarios en Perú. El contexto va pr\" → 3 lines (8 words, 54px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "6 box-shadow(s) on elements at rest: div.radius-ring → rgba(87, 212, 99, 0.016) 0px 0px 0px 45px | div.map-pin.fire-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px | div.map-pin.pet-pin → rgba(0, 0, 0, 0.267) 0px 3px 9px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "29 thin rule(s)/divider line(s): header.landing-masthead 1440px | section#inicio.hero.section 1440px | section.local-context.section 1440px | article 608px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "4 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "23 different font sizes (9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 22, 24, 28, 34, 36, 48, 54, 64, 68, 80, 93, 108).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "29 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"mapa.\" (screen 1, 50% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "5 headline(s) wrap past two lines at 768px: \"Tu comunidad. En el mismo mapa.\" → 5 lines (6 words, 76px); \"No es solo dónde. Es lo que nos conecta.\" → 3 lines (9 words, 40px); \"Conoce tu zona. Aporta a tu comunidad.\" → 3 lines (7 words, 36px); \"Reportes comunitarios en Perú. El contexto va pr\" → 5 lines (8 words, 34px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "7 headline(s) wrap past two lines at 390px: \"Tu comunidad. En el mismo mapa.\" → 3 lines (6 words, 46.8px); \"No es solo dónde. Es lo que nos conecta.\" → 4 lines (9 words, 46px); \"Una ciudad que se mira en comunidad.\" → 3 lines (7 words, 42px); \"De lo que observas a lo que compartimos.\" → 3 lines (8 words, 42px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\desktop-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\desktop-page-01.jpg",
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\tablet-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\mobile-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\mobile-page-01.jpg",
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\preview\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

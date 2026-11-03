@@ -1,0 +1,2069 @@
+{
+ "url": "dist/index.html",
+ "at": "2026-11-03T02:50:44.692Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.88,
+    0.75,
+    0.76,
+    0.16,
+    0.1,
+    0.19,
+    0.27,
+    0.27,
+    0.27,
+    0.27,
+    0.27,
+    0.27
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5902,
+     "screens": 6.6,
+     "words": 691,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/images/community/barrio.webp",
+      "http://127.0.0.1:57739/images/community/reportes.webp",
+      "http://127.0.0.1:57739/images/community/mascotas.webp",
+      "http://127.0.0.1:57739/images/community/ayuda.webp",
+      "http://127.0.0.1:57739/icon.png"
+     ],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": null,
+    "h1": {
+     "text": "Tu comunidad.En el mismomapa.",
+     "words": 4,
+     "lines": 1,
+     "size": 32,
+     "font": "Times New Roman"
+    },
+    "headings": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.99,
+      "top": 1730,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Times New Roman",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      16,
+      19,
+      24,
+      32
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Times New Roman",
+      "size": 16,
+      "leading": 1.2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 21
+     },
+     "measureChars": 178,
+     "max": {
+      "size": 32,
+      "vw": 2.2,
+      "font": "Times New Roman",
+      "text": "Tu comunidad."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad.En el mismomapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 1691
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 16,
+      "top": 3731
+     },
+     {
+      "text": "02",
+      "size": 16,
+      "top": 3871
+     },
+     {
+      "text": "03",
+      "size": 16,
+      "top": 4010
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.96
+      },
+      {
+       "color": "#0000ee",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#f0f0f0",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.94
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 0,
+     "radius": 0,
+     "height": 28,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.87
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5902,
+    "margins": {
+     "left": 8,
+     "right": 124
+    },
+    "sections": [
+     {
+      "sel": "div.brand-entrance.entrance-harkai",
+      "tag": "div",
+      "top": 110,
+      "height": 1581,
+      "words": 10,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 1208,
+      "textLeft": 8,
+      "textRight": 1208,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 1691,
+      "height": 1362,
+      "words": 109,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Tu comunidad.",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 8,
+      "right": 48,
+      "textLeft": 8,
+      "textRight": 281,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 3053,
+      "height": 515,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 790,
+      "textLeft": 8,
+      "textRight": 790,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#comunidad.section.community",
+      "tag": "section",
+      "top": 3584,
+      "height": 616,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 513,
+      "textLeft": 8,
+      "textRight": 513,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 4217,
+      "height": 467,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 857,
+      "textLeft": 8,
+      "textRight": 857,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 4700,
+      "height": 345,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 715,
+      "textLeft": 8,
+      "textRight": 715,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 5061,
+      "height": 284,
+      "words": 109,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 555,
+      "textLeft": 8,
+      "textRight": 555,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 5361,
+      "height": 200,
+      "words": 138,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 124,
+      "textLeft": 8,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 5561,
+      "height": 174,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 838,
+      "textLeft": 8,
+      "textRight": 838,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 5750,
+      "height": 144,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 581,
+      "textLeft": 8,
+      "textRight": 581,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "size": 32,
+      "top": 1730,
+      "firstScreen": false
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Ir al contenido",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "La comunidad",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "El barrio también tiene algo que decir",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Harkai reúne reportes comunitarios en Perú para en",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Cómo funciona",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu barrio se entiende mejor cuando lo miramos junt",
+      "side": "left",
+      "px": 8
+     }
+    ],
+    "edges": [
+     {
+      "x": 8,
+      "n": 43
+     },
+     {
+      "x": 48,
+      "n": 1
+     },
+     {
+      "x": 213,
+      "n": 1
+     },
+     {
+      "x": 382,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 46,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.78,
+    0.52,
+    0.19,
+    0.29,
+    0.43,
+    0.43,
+    0.43,
+    0.43
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4955,
+     "screens": 4.8,
+     "words": 691,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/images/community/barrio.webp",
+      "http://127.0.0.1:57739/images/community/reportes.webp",
+      "http://127.0.0.1:57739/images/community/mascotas.webp",
+      "http://127.0.0.1:57739/images/community/ayuda.webp",
+      "http://127.0.0.1:57739/icon.png"
+     ],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": null,
+    "h1": {
+     "text": "Tu comunidad.En el mismomapa.",
+     "words": 4,
+     "lines": 1,
+     "size": 32,
+     "font": "Times New Roman"
+    },
+    "headings": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.98,
+      "top": 1058,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Times New Roman",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      16,
+      19,
+      24,
+      32
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Times New Roman",
+      "size": 16,
+      "leading": 1.2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 21
+     },
+     "measureChars": 94,
+     "max": {
+      "size": 32,
+      "vw": 4.2,
+      "font": "Times New Roman",
+      "text": "Tu comunidad."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad.En el mismomapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 1019
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 16,
+      "top": 2694
+     },
+     {
+      "text": "02",
+      "size": 16,
+      "top": 2833
+     },
+     {
+      "text": "03",
+      "size": 16,
+      "top": 2973
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.96
+      },
+      {
+       "color": "#0000ee",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#f0f0f0",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.94
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 0,
+     "radius": 0,
+     "height": 28,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.72
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4955,
+    "margins": {
+     "left": 8,
+     "right": 19
+    },
+    "sections": [
+     {
+      "sel": "div.brand-entrance.entrance-harkai",
+      "tag": "div",
+      "top": 110,
+      "height": 909,
+      "words": 10,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 536,
+      "textLeft": 8,
+      "textRight": 536,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 1019,
+      "height": 979,
+      "words": 109,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Tu comunidad.",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 8,
+      "right": 48,
+      "textLeft": 8,
+      "textRight": 9,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 1998,
+      "height": 515,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 118,
+      "textLeft": 8,
+      "textRight": 118,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#comunidad.section.community",
+      "tag": "section",
+      "top": 2529,
+      "height": 652,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 51,
+      "textLeft": 8,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 3197,
+      "height": 467,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 185,
+      "textLeft": 8,
+      "textRight": 185,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 3680,
+      "height": 345,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 43,
+      "textLeft": 8,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 4042,
+      "height": 338,
+      "words": 109,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 15,
+      "textLeft": 8,
+      "textRight": 15,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 4395,
+      "height": 200,
+      "words": 103,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 19,
+      "textLeft": 8,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 4595,
+      "height": 174,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 166,
+      "textLeft": 8,
+      "textRight": 166,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 4785,
+      "height": 162,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 19,
+      "textLeft": 8,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "size": 32,
+      "top": 1058,
+      "firstScreen": false
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Ir al contenido",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "La comunidad",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "El barrio también tiene algo que decir",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Harkai reúne reportes comunitarios en Perú para en",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Cómo funciona",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu barrio se entiende mejor cuando lo miramos junt",
+      "side": "left",
+      "px": 8
+     }
+    ],
+    "edges": [
+     {
+      "x": 8,
+      "n": 43
+     },
+     {
+      "x": 48,
+      "n": 1
+     },
+     {
+      "x": 213,
+      "n": 1
+     },
+     {
+      "x": 382,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 46,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.74,
+    0.47,
+    0.41,
+    0.26,
+    0.75,
+    0.47
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5045,
+     "screens": 6,
+     "words": 691,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 44,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/icon.png",
+      "http://127.0.0.1:57739/images/community/barrio.webp",
+      "http://127.0.0.1:57739/images/community/reportes.webp",
+      "http://127.0.0.1:57739/images/community/mascotas.webp",
+      "http://127.0.0.1:57739/images/community/ayuda.webp",
+      "http://127.0.0.1:57739/icon.png"
+     ],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Tu comunidad.En el mismomapa.",
+     "words": 4,
+     "chars": 29,
+     "lines": 2,
+     "size": 32,
+     "vw": 8.2,
+     "font": "Times New Roman",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.2,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 680,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Tu comunidad.En el mismomapa.",
+     "words": 4,
+     "lines": 2,
+     "size": 32,
+     "font": "Times New Roman"
+    },
+    "headings": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 680,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "La comunidad en el mapa",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 965,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "No es solo dónde. Es lo que nos conecta.",
+      "words": 9,
+      "chars": 40,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1580,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Una ciudad que se mira en comunidad.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2216,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De lo que observas a lo que compartimos.",
+      "words": 8,
+      "chars": 40,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3019,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Para quien vive la ciudad. Y quien la cuida.",
+      "words": 9,
+      "chars": 44,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3602,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Reportes comunitarios en Perú. El contexto va primero.",
+      "words": 8,
+      "chars": 54,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4026,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas que sí importan.",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4470,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "La ciudad es grande. La comunidad está cerca.",
+      "words": 8,
+      "chars": 45,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Times New Roman",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4687,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 8,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Times New Roman",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      16,
+      19,
+      24,
+      32
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Times New Roman",
+      "size": 16,
+      "leading": 1.2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 21
+     },
+     "measureChars": 47,
+     "max": {
+      "size": 32,
+      "vw": 8.2,
+      "font": "Times New Roman",
+      "text": "Tu comunidad."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "El barrio también tiene algo que decir",
+      "above": "Tu comunidad.En el mismomapa.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 641
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 16,
+      "top": 2406
+     },
+     {
+      "text": "02",
+      "size": 16,
+      "top": 2564
+     },
+     {
+      "text": "03",
+      "size": 16,
+      "top": 2721
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.96
+      },
+      {
+       "color": "#0000ee",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#f0f0f0",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.94
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 0,
+     "radius": 0,
+     "height": 28,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.42
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5045,
+    "margins": {
+     "left": 8,
+     "right": 10
+    },
+    "sections": [
+     {
+      "sel": "div.brand-entrance.entrance-harkai",
+      "tag": "div",
+      "top": 110,
+      "height": 531,
+      "words": 10,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 8,
+      "textLeft": 8,
+      "textRight": 158,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#inicio.hero.section",
+      "tag": "section",
+      "top": 641,
+      "height": 898,
+      "words": 109,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Tu comunidad.",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 8,
+      "right": 13,
+      "textLeft": 8,
+      "textRight": 13,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.local-context.section",
+      "tag": "section",
+      "top": 1539,
+      "height": 623,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "No es solo dónde.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 16,
+      "textLeft": 8,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#comunidad.section.community",
+      "tag": "section",
+      "top": 2178,
+      "height": 787,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Una ciudad que se mira en comunidad.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 8,
+      "textLeft": 8,
+      "textRight": 10,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.workflow",
+      "tag": "section",
+      "top": 2982,
+      "height": 566,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De lo que observas a lo que compartimos.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 12,
+      "textLeft": 8,
+      "textRight": 12,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#para-ti.section.audiences",
+      "tag": "section",
+      "top": 3564,
+      "height": 408,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Para quien vive la ciudad. Y quien la cuida.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 11,
+      "textLeft": 8,
+      "textRight": 11,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.report-guide",
+      "tag": "section",
+      "top": 3988,
+      "height": 428,
+      "words": 109,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Reportes comunitarios en Perú.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 15,
+      "textLeft": 8,
+      "textRight": 15,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 4432,
+      "height": 218,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas que sí importan.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 10,
+      "textLeft": 8,
+      "textRight": 10,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.closing",
+      "tag": "section",
+      "top": 4650,
+      "height": 192,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad es grande.",
+       "size": 24,
+       "tag": "h2"
+      },
+      "left": 8,
+      "right": 47,
+      "textLeft": 8,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 4857,
+      "height": 180,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 8,
+      "right": 52,
+      "textLeft": 8,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Tu comunidad.En el mismomapa.",
+      "size": 32,
+      "top": 680,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Ir al contenido",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "La comunidad",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad. En el mismo mapa.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "El barrio también tiene algo que decir",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Tu comunidad.",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "En el mismo",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Harkai reúne reportes comunitarios en Perú para en",
+      "side": "left",
+      "px": 8
+     },
+     {
+      "text": "Cómo funciona",
+      "side": "left",
+      "px": 8
+     }
+    ],
+    "edges": [
+     {
+      "x": 8,
+      "n": 44
+     },
+     {
+      "x": 48,
+      "n": 1
+     },
+     {
+      "x": 99,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 46,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"El barrio también tiene algo que decir\" above \"Tu comunidad.En el mismomapa.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01\", \"02\", \"03\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "default-link",
+   "width": 1440,
+   "message": "Browser-default blue/purple link colour is showing.",
+   "fix": "Style every link: inherit the text colour and mark it with weight, underline offset, or the accent.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "first-action",
+   "width": 1440,
+   "message": "No visible button in the first screen.",
+   "fix": "Give the one primary action a real button in the first screen (a filled or solid-bordered control, 44px or taller), not only a link in the navigation.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 178 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "broken-image",
+   "width": 1440,
+   "message": "Broken image(s): http://127.0.0.1:57739/icon.png, http://127.0.0.1:57739/icon.png, http://127.0.0.1:57739/images/community/barrio.webp, http://127.0.0.1:57739/images/community/reportes.webp",
+   "fix": "Fix the URL or replace the asset.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-hero",
+   "width": 1440,
+   "message": "No headline found in the first viewport.",
+   "fix": "The first screen needs a clear focal statement or image.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The page sits off-centre: its content comes to 8px from the left edge but only to 124px from the right, at 1440px.",
+   "fix": "Give the page one pair of equal margins. Check the wrapper for a max-width without margin-inline: auto, a grid with an empty last column, or padding on one side only. If one side is meant to hold air, it must still be closed by something that reaches the margin (a picture, the navigation's last item, a figure)."
+  },
+  {
+   "level": "FAIL",
+   "id": "lopsided",
+   "width": 1440,
+   "message": "3 sections keep all their content on one side and leave 60% of the width empty: \"No es solo dónde.\" (right 790px empty); \"De lo que observas a lo que compartimos.\" (right 857px empty); \"Para quien vive la ciudad. Y quien la cuida.\" (right 715px empty)",
+   "fix": "Use the whole width the page has set up: put the section's picture, its second column, its list or its figure in the empty half, or set the text larger across the grid. Empty space must be placed, with something on each side of it."
+  },
+  {
+   "level": "FAIL",
+   "id": "no-title",
+   "width": 1440,
+   "message": "The h1 (\"Tu comunidad.En el mismomapa.\") is not on the first screen (it starts 1730px down).",
+   "fix": "The title belongs on the first screen, where a visitor decides whether to stay.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 1440,
+   "message": "8 text block(s) sit within 16px of the screen edge: \"Ir al contenido\" (8px from the left); \"La comunidad\" (8px from the left); \"Tu comunidad. En el mismo mapa\" (8px from the left); \"El barrio también tiene algo q\" (8px from the left)",
+   "fix": "Keep text inside the page margin (16–32px or more). Only display type deliberately bled past the edge may touch it.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 0 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "empty-screens",
+   "width": 1440,
+   "message": "3 of 12 desktop screens are almost empty ground (under 20% of the screen holds text, a picture or a colour field): screens 4, 5, 6.",
+   "fix": "An empty screen is a rest only once per page. Elsewhere it means the section is underbuilt: set its content larger, give it the full information, put it on a colour field, or cut it."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\desktop-page-01.jpg",
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\desktop-page-02.jpg",
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\tablet-page-01.jpg",
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "D:\\vscode\\harkai\\harkai-landing\\.taste-skill\\after\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
